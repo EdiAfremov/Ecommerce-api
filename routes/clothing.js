@@ -17,8 +17,8 @@ router.post('/', function (req, res, next) {
     size: req.body.size,
     selectedSize: req.body.selectedSize,
     color: req.body.color,
-    image: `http://localhost:3001/images/${req.body.image}`,
-    bigImage: `http://localhost:3001/images/${req.body.bigImage}`
+    image: `https://enigmatic-refuge-63110.herokuapp.com/images/${req.body.image}`,
+    bigImage: `https://enigmatic-refuge-63110.herokuapp.com/images/${req.body.bigImage}`
   })
 
   clothing.save().then((doc) => {

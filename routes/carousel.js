@@ -19,8 +19,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "black",
-        "image": "http://localhost:3001/images/7150187-1-black.jpg",
-        "bigImage": "http://localhost:3001/images/7150187-1-black.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/7150187-1-black.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/7150187-1-black.jpg",
         "__v": 0
     }, {
         "_id": "5a9d9e91a8c5e61538f80c6e",
@@ -35,8 +35,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "navy",
-        "image": "http://localhost:3001/images/jack.jpg",
-        "bigImage": "http://localhost:3001/images/jack.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/jack.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/jack.jpg",
         "__v": 0,
         "discount": 0.0
     },
@@ -54,8 +54,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "grey",
-        "image": "http://localhost:3001/images/8177011-1-grey.jpg",
-        "bigImage": "http://localhost:3001/images/8177011-1-grey.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/8177011-1-grey.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/8177011-1-grey.jpg",
         "__v": 0,
         "discount": 0.0,
         "discoutn": 0.0
@@ -73,8 +73,8 @@ const data = [
         ],
         "selectedSize": "31,32,34,36",
         "color": "black",
-        "image": "http://localhost:3001/images/diesel.jpg",
-        "bigImage": "http://localhost:3001/images/diesel.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/diesel.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/diesel.jpg",
         "__v": 0,
         "discount": 0.0
     },
@@ -91,8 +91,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "white",
-        "image": "http://localhost:3001/images/7608286-1-white.jpg",
-        "bigImage": "http://localhost:3001/images/7608286-1-white.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/7608286-1-white.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/7608286-1-white.jpg",
         "__v": 0,
         "discoutn": 0.0,
         "discount": 0.0
@@ -110,8 +110,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "light blue",
-        "image": "http://localhost:3001/images/hollister.jpg",
-        "bigImage": "http://localhost:3001/images/hollister.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/hollister.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/hollister.jpg",
         "__v": 0,
         "discount": 0.0
     },
@@ -128,8 +128,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "green",
-        "image": "http://localhost:3001/images/nike-train.jpg",
-        "bigImage": "http://localhost:3001/images/nike-train.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/nike-train.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/nike-train.jpg",
         "__v": 0,
         "discount": 0.0
     },
@@ -146,8 +146,8 @@ const data = [
         ],
         "selectedSize": "",
         "color": "green",
-        "image": "http://localhost:3001/images/8886885-1-green.jpg",
-        "bigImage": "http://localhost:3001/images/8886885-1-green.jpg",
+        "image": "https://enigmatic-refuge-63110.herokuapp.com/images/8886885-1-green.jpg",
+        "bigImage": "https://enigmatic-refuge-63110.herokuapp.com/images/8886885-1-green.jpg",
         "__v": 0,
         "discoutn": 0.0,
         "discount": 0.0

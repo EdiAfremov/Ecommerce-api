@@ -8,8 +8,8 @@ const router = express.Router();
 
 router.get('/', function (req, res, next) {
     const images = {
-        suits: 'http://localhost:3001/images/suits.jpg',
-        trends: 'http://localhost:3001/images/trends.jpg',
+        suits: 'https://enigmatic-refuge-63110.herokuapp.com/images/suits.jpg',
+        trends: 'https://enigmatic-refuge-63110.herokuapp.com/images/trends.jpg',
     }
     res.send(images);
 })
